@@ -1,0 +1,354 @@
+ETHICS IN DATA ANALYTICS
+Unit 1
+INDRODUCTION
+
+SENSES OF ENGINEERING ETHICS: 
+There are two different senses (meanings) of engineering ethics, namely the Normative and the Descriptive senses. 
+The normative sense includes: 
+a) Knowing moral values, finding accurate solutions to moral problems and justifying moral judgments in engineering practices, 
+(b) Study of decisions, policies, and values that are morally desirable in the engineering practice and research, and 
+(c) Using codes of ethics and standards and applying them in their transactions by engineers. The descriptive sense refers to what specific individual or group of engineers believe an act, without justifying their beliefs or actions.
+KOHLBERG AND GILLIGAN VIEWS:
+ Kohlberg Theory 
+These theories are based on the sorts of reasoning and motivation adopted by individuals with regard to moral questions.
+ Lawrence Kohlberg‟s Theory 
+✓ According to Kohlberg, the people progressed in their moral reasoning through a series of stages. His theory is based on the foundation that morality is a form of reasoning that develops I structural stages. ✓ The three levels of moral development, suggested by Kohlberg, are:
+ 1. Pre-conventional level; 
+2. Conventional level; and 
+3. Post –conventional level. 
+1. Pre- conventional level 
+✓ The pre-conventional level of moral development is based to derive benefits for oneself. 
+✓ In the first level, individual behave according to socially acceptable norms, which are taught mainly by parents and teachers. 
+✓ At this level, individuals are motivated mainly by their interest to avoid punishment, or by their desire to satisfy their own needs, or by the external power exerted on them. 
+✓ This is the level of development of all young children and some adults, who are unable to reach beyond a certain limit. 
+2. Conventional level 
+✓ In the second level, the moral thinking and behavior of the individual are determined by the standards of their family, community, and society. That is, the norms or customs of one‘s family/community/society are accepted and adopted as the ultimate standard of morality. 
+✓ At this level, individuals are motivated by the desire to please others and to meet the social units‘ expectations, without bothering much about their self-interest. 
+✓ Thus as per the second level, individuals give more importance to loyalty and close identification with others, than their own self-interest. 
+✓ Many studies of Kohlberg reveal that most adults are living at this level only. 
+✓ The second level of moral thinking is found in society generally. That‘s why it is named as ‗conventional‘ level of moral development 
+3. Post –Conventional level 
+✓ In the post-conventional level, the individuals are guided by strong principles and convictions, not by selfish needs or pressures from society.
+According to Kohlberg, 
+hese individuals are called as ‗autonomous‘, because they think for/by themselves and also they do not believe that customs are always right. 
+✓ The people at this level want to live by general principles that are universally applied to all people. They always desire to maintain their moral integrity, self Kohlberg felt that the majority of adults do not reach the post-conventional level. 
+Gilligan Theory
+ ✓ Carol Gilligan, a former student and colleague of Kohlberg, has criticized Kohlberg‘s theory as male blased. 
+✓ She also charged Kohlberg that Kohlberg‘s studies were concluded with male samples only and also his approach is dominated by a typical preoccupation with general rules and rights. 
+✓ According to Gilligan, males have tendency to over-ride the importance of moral rules and convictions while resolving moral dilemmas; whereas females have tendency to try hard to preserve personal relationships with all people invlolved in a situation. 
+✓ Also Gilligan felt that men mostly focus their attention on content of the problem, whereas women focus their attention on the context i.e., situation of the problem. 
+✓ Gilligan refers her context-oriented emphasis on maintaining personal relationships as the ethics of care, and contrasts it with Kohlberg‘s ethics of rules and rights. Gilligan‟s Levels Of Moral Development 1. Pre-conventional level 
+✓ This is almost the same as Kohlberg‘s first level. 
+✓ That is, in this level an individual is concerned with self-centered reasoning. 2. Conventional level 
+✓ This level differs from Kohlberg‘s second level. 
+✓ According to Gilligan, women will not hurt others and have a willingness to sacrifice their own interests in order to help others. 3. Post-conventional level 
+✓ This level also differs from Kohlberg‘s third level. 
+✓ In this level, the individual is able to maintain balance between his own needs with the needs of others.
+The balancing can be achieved through context-oriented reasoning i.e., examining all facts, people and circumstances involved, rather than by applying abstract rules ranked in a hierarchy of importance.
+	MORAL DILEMMA:
+
+What are moral dilemmas?
+
+•	Moral dilemmas are situations in which two or more moral obligations, duties, rights, goods, or ideals come into conflict with each other.
+
+•	The crucial feature of a moral dilemma is that all the moral principles cannot be fully respected in a given situation.
+
+•	Also solving one moral principle can create two or more conflicting applications for a particular situation.
+
+Causes Of Moral Dilemmas
+
+Moral dilemmas are situations, mostly, due to the following three problems.
+1.	Problem of vagueness;
+2.	Problem of conflicting reasons; and
+3.	Problem of disagreement.
+
+1.	Problem of vagueness
+•	Vague means not clearly expressed or perceived; not specific or exact.
+
+•	For a given situation, sometimes it is unclear to the engineers to apply the most appropriate moral considerations or principles. They may not know how and which moral principles to be used in resolving a moral problem. This situation creates a typical moral dilemma.
+
+
+•	Example: consider an engineer, starting a new assignment as quality inspector checking the incoming raw materials/spare parts from the suppliers. Supplier offers (on behalf of some festival, say, Deepavali) him an expensive DVD player as a gift.
+Now this situation is a moral dilemma. Because the engineer is unclear about: what to do?; whether to accept the gift or not?; whether the thing offered is a gift or a bribe?; will it create a conflict of interest?
+Thus the problem of vagueness i.e., unclarity causes a moral dilemma.
+
+2.	Problem of conflicting reasons
+
+This is a situation where two or more moral problems conflicting each other, each of which seems to be correct.
+In other words, this is a situation where two or more moral obligations, duties, rigthts or ideals come into conflict with each other; independently each one is good and correct. But when they come together it is very difficulty choice to choose the good one.
+This situation is another moral dilemma.
+
+Example: let us examine the space shuttle challenger explosion, focusing on the dilemma faced by the engineering manager, bob lund. He had the following conflicts:
+1.	Launching the chelenger space shuttle despite there was an unknown probability that the shuttle would explode; which will kill all the persons on the board.
+2.	Postponing the launch, which may lead to loss of future contracts from NASA, the loss of job to many workers, etc.
+Now, the job of Bob Lund is to make the best choice out of these two conflicts. At last, he chose to risk the launching of shuttle.
+This situation is one of the good illustrations for the moral dilemma due to the problem of conflicting reasons.
+
+ 3.  Problem of disagreement
+
+It is quite obvious that individuals and groups may have different views, suggestions, interpretations, and solutions on a moral problem in particular situations. This disagreement among individuals and groups on interpreting moral issues will create a situation of another moral dilemma.
+
+Example: In most corporations, there are disagreements among managers regarding
+whether customer can be allowed to inspect their plants and procedures, as a confidence building measure.
+
+  
+
+	MORALITY AND MORAL ISSUES:
+What is morality?
+
+The word morality is concerned with:
+•	What morally ought or ought not to be given in a given situation;
+•	What is morally right or wrong an out the handling of the situation; and/or
+•	What is morally good or bad about the people, policies, and ideals involved in it?
+
+According to the Oxford dictionary, morality means principles concerning right and wrong or good and bad behavior.
+
+Moral reasons are required to support an act (or an ideal) to be called as morally right act (or an ideal is moral )
+VARIETY OF MORAL ISSUES
+
+Approaches to engineering ethics
+There are two different approaches of engineering ethics.
+1.	Micro-ethics: this approach addresses typical, everyday problems that the engineers face in their professional life. In other words, micr-ethics describes ethical issues that may affect an engineer‘s professional and personal life.
+2.	Macro-ethics: this approach deals with all societal problems that engineers encounter during their career. In other words, macro-ethics discusses ethical issues concerning all societal problems that engineers might encounter.
+
+Where and how do moral problems arise in engineering? (contexts of professional disagreements faced by engineers)
+Engineers carry out various activities and decision-making exercises involving technical, financial, managerial, environmental, and ethical issues. There are many situations and moral issues that cause professional disagreements among engineers. The varieties of moral issues are:
+
+1.	Organization oriented issues
+
+Being an employee to firm, the engineer has to work towards the achievement of the objectives of his/her organization.
+
+Engineers have to give higher priority to the benefits of the organization than one‘s own benefits.
+
+Engineers should be able to work collectively with colleagues and other members in order to achieve firm‘s goals.
+
+2.	Clients or customers oriented issues
+
+As we know, the purpose of any business is to reach and satisfy the end users. Therefore the customers‘ requirements should be met.
+
+In this regard, engineers have a major role to play in identifying the ‗customer voice‘, and incorporating the voice of the customer into the product design and manufacture.
+
+Apart from engineering technicality issues, engineers also should face other moral and ethical issues with clients/customers.
+3.	Competitors oriented issues
+
+In order to withstand in a market, engineers should produce things better than their competitors by all means.
+
+But engineers should not practice cut-throat competition. They should follow certain professional behavior while facing their competitors.
+
+Thus engineers should hold paramount the safety, health and welfare of the customers in the performance of their professional duties.
+4.	Law, government and public agencies oriented issues
+
+The engineers should obey and voluntarily comply with all the governmental rules and regulations related to them.
+
+They should also respect and honestly practice all other similar laws, policies, and regulations.
+Professional societies oriented issues
+
+The engineers should follow strictly the various codes of ethics by various professional societies such as National Society of Professional Engineers (NSPE), the Institute of Electrical and Electronics Engineers (IEEE), and American Society of Mechanical Engineers (ASME), in order to perform standard professional behavior.
+
+Professional codes of ethics reflect basic ‗norms‘ of conduct that exist within a particular professional and provide general guidance relating to a variety of issues.
+
+5.	Social and environmental oriented issues
+
+Since the works of engineers have a direct and vital impact on the quality of life for all people, the engineers should be dedicate to the protection of the public health, safety and welfare.
+
+Also engineers need to be aware their role as agents of experimenters. They should have a united commitment in protecting the environment. They should not involve in any unethical environmental issues such as misusing scarce resources, and fouling environment.
+
+6.	Family oriented issues
+
+As a human being and the member of a family, the engineers do have family obligations to take care the needs of their family members. But they should not take any decisions for their own benefits at the cost of public, clients, or employers.
+
+Thus the above discussion explains how the ethical problems often arise in the engineering profession.
+	MORAL AUTONOMY:
+What is meant by moral autonomy?
+
+As already discussed, the practical aim in studying and teaching this engineering ethics course is to foster the moral autonomy of future engineers.
+      Autonomy means ‗self-determining‘ or ‗independent‘.
+
+Moral autonomy is the ability to think critically and independently about moral issues and apply this normal thinking to situations that arise during the professional engineering practice.
+
+In other words, moral autonomy means the skill and habit of thinking rationally on ethical issues based on moral concern.
+
+That is, it is concerned with the independent attitude of an individual related to ethical issues.
+     It is the ability to arrive at reasoned moral views based on the responsiveness to human values.
+Steps in confronting moral dilemmas
+
+In order to face/overcome the above said moral dilemmas, one can follow one or more of the following steps.
+Step 1: Identifying the pertinent moral factors and reasons. It involves addressing solutions for conflicting responsibilities, opposing rights, and incompatible ideals involved.
+Step 2: Collecting all the available moral considerations, which are relevant to the moral factors involved.
+Step 3: Ranking the above collected moral considerations on the basis of importance as applicable to the particular situation.
+Step 4: Making factual inquires. In other words, finding alternative courses of actions to resolve the moral dilemmas and following the complete implications of each.
+
+CONSENSUS AND CONTROVERSY:
+Models of professional roles (Professional roles to be played by an engineer)
+It is understood that an engineer has to play many roles while exercising his professional obligations. Some of the professional roles or models are given below:
+1.	Engineers as Saviors
+It is believed that engineers hold the key for any improvements in society through technological developments.
+
+Thus some people consider engineer as a savior because they redeem society from poverty, inefficiency, waste and the hardships drudgery of manual labor.
+2.	Engineers as Guardians
+
+Engineers know the direction in which technology should develop and the speed at which it should move. Thus many people agree the role of engineers as guardians, as engineers guard the best interests of society.
+
+3.	Engineers as Bureaucratic Servants
+
+The engineers‘ role in the management is to be the servant who receives and translates the directives of management into solid accomplishments.
+
+Thus the engineers act as a bureaucratic servants i.e., loyal organizations set by the management.
+4.	Engineers as Social Servants
+
+As we know, engineers have to play the role of social servants to receive society‘s directives and to satisfy society‘s desires.
+5.	Engineers as Social Enablers and Catalysts
+
+Besides merely practicising the management‘s directives, the engineers have to play arole of creating a better society. Also they should act as catalysts for making social changes.
+
+Sometimes engineers have to help the management and the society to understand their needs and to make decisions about desirable technological development.
+6.	Engineers as Game Players
+
+In actual practice, engineers are neither servants nor masters of anyone. In fact, they play the economic game rules, which may be effective at a given time.
+
+Like managers, the engineers‘ aim is also to play successfully within the organization and moving ahead in a competitive world.
+
+ 
+Consensus and Controversy
+
+ 	Literally, consensus means ‗agreement‘, and controversy means ‗disagreement‘.
+
+When an individual exercise moral autonomy, he may not be able to attain the same results as other people obtain in practicing their moral autonomy. Here there might be some differences in the practical application of moral autonomy. This kind of controversies i.e., disagreements are inevitable.
+
+Since exercising moral autonomy is not as precise and clear-cut as arithmetic, therefore the moral disagreements are natural and common. So in order to allow scope for disagreement, the tolerance is required among individuals with autonomous, reasonable and responsible thinking.
+
+According to the principle of tolerance, the objective of teaching and studying engineering ethics is to discover ways of promoting tolerance in the exercise of moral autonomy by engineers.
+
+Thus the goal of teaching engineering ethics is not merely producing always a unanimous moral conformity; it is about finding the proper ways and means for promoting tolerance in the practical applications of moral autonomy by engineers.
+In a way, the goal of courses on engineering ethics and goals of responsible engineering have some similarities. Both situations require the need for some consensus regarding the role of authority.
+
+Relationship between autonomy and authority
+1.	Moral autonomy and respect for authority are compatible with each other. Exercising moral autonomy is based on the moral concern for other people and recognition of good moral reasons. Also moral autonomy emphasizes the capabilities and responsibilities of people. Authority provides the framework through which learning attitudes are encouraged.
+2.	Sometimes, conflicts will arise between individuals‘ need for autonomy and the need for consensus about authority. This situation can be rescued by having open and frank discussion regarding a moral issue with the help of authority.
+
+Illustration: Consider the relationship between autonomy and authority, with reference to a classroom. In the classroom, the teachers have authority over students. Authority of the teachers helps in maintaining the dignity and decorum of academic climate in a institution; also in restoring the confidence and respect between teachers and students.
+As per the first point, there should be the acceptance of authority of authority by both the teachers and students, in order to conduct the classes in orderly ways.
+When the authority is misused, conflicts may arise between autonomy and authority. As per the second point, allowing open discussions between teachers and students can reduce the unhealthy academic atmosphere.
+
+MODELS OF PROFESSIONAL ROLES:
+
+Promotion of public good is the primary concern of the professional engineers. There are several role models to whom the engineers are attracted. These models provoke their thinking, attitudes and actions.
+
+1.	Savior
+The engineer as a savior, save the society from poverty, illiteracy, wastage, inefficiency, ill health, human (labor) dignity and lead it to prosperity, through technological development and social planning.
+For example, R.L. Stevenson.
+
+2.	Guardian
+He guards the interests of the poor and general public. As one who is conversant with technology development, is given the authority befitting his expertise to determine what is best suited to the society. For example, Lawrence of Arabia (an engineer).
+
+3.	Bureaucratic Servant
+He serves the organization and the employers. The management of an enterprise fixes its goals and assigns the job of problem solving to the engineer, who accepts the challenge and shapes them into concrete achievements. For example, Jamshedji Tata.
+
+4.	Social Servant
+It is one who exhibits social responsibility. The engineer translates the interest and aspirations of the society into a reality, remembering that his true master is the society at large. For example, Sir M.Viswesvarayya.
+
+5.	Social Enabler and Catalyst
+One who changes the society through technology. The engineer must assist the management and the society to understand their needs and make informed decisions on the desirable technological development and minimize the negative effects of technology on people and their living environment. Thus, he shines as a social enabler and a catalyst for further growth. For example, Sri Sundarlal Bahuguna.
+
+6.	Game Player
+He is neither a servant nor master. An engineer is an assertive player, not a passive player who may carry out his master‘s voice. He plays a unique role successfully within the organization, enjoying the excitement of the profession and having the satisfaction of surging ahead in a competitive world. For example, Narayanamurthy, Infosys and Dr. Kasthurirangan, ISRO.
+
+ETHICAL THEORIES:
+
+Independently propounded ethical theories are many and are very diverse in nature.
+Philosophical point of view of ethical theories Deontology
+Deontological ethics or deontology (from Greek δέον, deon, "obligation, duty"; and - λογία, -logia) is an approach to ethics that determines goodness or rightness from examining acts, or the rules and duties that the person doing the act strove to fulfill. This is in contrast to consequentialism, in which rightness is based on the consequences of an act, and not the act by itself. In deontology, an act may be considered right even if the act produces a bad consequence, if it follows the rule that "one should do unto others as they would have done unto them", and even if the person who does the act lacks virtue and had a bad intention in doing the act. According to deontology, we have a duty to act in a way that does those things that are inherently good as acts ("truth-telling" for example), or follow an objectively obligatory rule (as in rule utilitarianism). For deontologists, the ends or consequences of our actions are not important in and of themselves, and our intentions are not important in and of themselves. Immanuel Kant's theory of ethics is considered deontological for several different reasons. First, Kant argues that to act in the morally right way, people must act from duty (deon). Second, Kant argued that it was not the consequences of actions that make them right or wrong but the motives (maxime) of the person who carries out the action. Kant's argument that to act in the morally right way, one must act from duty, begins with an argument that the highest good must be both good in itself, and good without qualification. Something is 'good in itself' when it is intrinsically good , and 'good without qualification' when the addition of that thing never makes a situation ethically worse. Kant then argues that those things that are usually thought to be good, such as intelligence, perseverance and pleasure, fail to be either intrinsically good or good without qualification. Pleasure, for example, appears to not be good without qualification, because when people take pleasure in watching someone suffering, this seems to make the situation ethically worse. He concludes that there is only one thing that is truly good:
+Nothing in the world—indeed nothing even beyond the world—can possibly be conceived which could be called good without qualification except a good will.
+
+
+ 
+
+Kantian ethics:
+Kantian ethics are deontological, revolving entirely around duty rather than emotions or end goals. All actions are performed in accordance with some underlying maxim or principle, which are deeply different from each other; it is according to this that the moral worth of any action is judged. Kant's ethics are founded on his view of rationality as the ultimate good and his belief that all people are fundamentally rational beings. This led to the most important part of Kant's ethics, the formulation of the categorical imperative, which is the criterion for whether a maxim is good or bad. Simply put, this criterion amounts to a thought experiment: to attempt to universalize the maxim (by imagining a world where all people necessarily acted in this way in the relevant circumstances) and then see if the maxim and its associated action would still be conceivable in such a world. For instance, holding the maxim kill anyone who annoys you and applying it universally would result in a world which would soon be devoid of people and without anyone left to kill. Thus holding this maxim is irrational as it ends up being impossible to hold it. Universalizing a maxim (statement) leads to it being valid, or to one of two contradictions — a contradiction in conception (where the maxim, when universalized, is no longer a viable means to the end) or a contradiction in will (where the will of a person contradicts what the universalization of the maxim implies).
+
+The first type leads to a "perfect duty", and the second leads to an "imperfect duty." Kant's ethics focus then only on the maxim that underlies actions and judges these to be good or bad solely on how they conform to reason. Kant showed that many of our common sense views of what is good or bad conform to his system but denied that any action performed for reasons other than rational actions can be good (saving someone who is drowning simply out of a great pity for them is not a morally good act). Kant also denied that the consequences of an act in any way contribute to the moral worth of that act, his reasoning being (highly simplified for brevity) that the physical world is outside our full control and thus we cannot be held accountable for the events that occur in it.
+
+Virtue ethics
+
+Virtue ethics describes the character of a moral agent as a driving force for ethical behavior, and is used to describe the ethics of Socrates, Aristotle, and other early Greek philosophers. Socrates (469 BC – 399 BC) was one of the first Greek philosophers to encourage both scholars and the common citizen to turn their attention from the outside world to the condition of humankind. In this view, knowledge having a bearing on human life was placed highest, all other knowledge being secondary. Self-knowledge was considered necessary for success and inherently an essential good. A self-aware person will act completely within his capabilities to his pinnacle, while an ignorant person will flounder and encounter difficulty. To Socrates, a person must become aware of every fact (and its context) relevant to his existence, if he wishes to attain self-knowledge. He posited that people will naturally do what is good, if they know what is right. Evil or bad actions are the result of ignorance. If a criminal was truly aware of the mental and spiritual consequences of his actions, he would neither commit nor even consider committing those actions. Any person who knows what is truly right will automatically do it, according to Socrates. While he correlated knowledge with virtue, he similarly equated virtue with happiness. The truly wise man will know what is right, do what is good, and therefore be happy.
+ 
+  
+
+ Philosophers have found ethical theories useful because they help us decide why various actions are right and wrong. If it is generally wrong to punch someone then it is wrong to kick them for the same reason.
+
+     We can then generalize that it is wrong to ―harm‖ people to help understand why punching and kicking tend to both be wrong, which helps us decide whether or not various other actions and institutions are wrong, such as capital punishment, abortion, homosexuality, atheism, and so forth. All of the ethical theories have various strengths and it is possible that more than one of them is true (or at least accurate). Not all moral theories are necessarily incompatible. Imagine that utilitarianism, the categorical imperative, and Stoic virtue ethics are all true. In that case true evaluative beliefs (e.g. human life is preferable) would tell us which values to promote (e.g. human life), and we would be more likely to have an emotional response that would motivate us to actually promote the value. We would feel more satisfied about human life being promoted (e.g. through a cure to cancer) and dissatisfied about human life being destroyed (e.g. through war). Finally, what is right for one person would be right for everyone else in a sufficiently similar situation because the same reasons will justify the same actions.
+
+Types of Inquiries
+The issues can be resolved by following an investigation procedure, step by step in order to have a clear understanding towards the issue. Here we have three different types of inquiries.
+Judging the issues has to be followed by a systematic procedure to avoid any flaws. Engineering ethics involves investigations into values, meanings and facts. Following are the different types of inquiries made for this.
+•	Normative inquiries
+•	Conceptual inquiries
+•	Factual or descriptive inquiries
+ 
+Normative Inquiries
+Normative Inquiry refers to the description that describes what one ought to do under a specific circumstance. This is the expected ideal response, which might differ from what one believes to be right or wrong.
+This list identifies and justifies the morally desirable nature for guiding individuals or groups. This includes the responsibility of engineers to protect the public safety and how they should respond under such dangerous practices. Normative inquiries also quote the laws and procedures that affect the engineering practice on moral grounds. They refer to the thought process where the moral rights are to be implemented in order to fulfill their professional obligations.
+Conceptual Inquiries
+Conceptual Inquiry refers to the description of the meaning of concepts, principles and issues related to engineering ethics. The ethics that an engineer should possess to protect the safety, health and welfare of the public, etc. are described under conceptual inquiries.
+It describes what safety is and mentions the marginal issues of safety along with the precautions an engineer should take to avoid risk. Conceptual inquiries mention the moral aspects of bribery and how its effects, along with the professional ethics and professionalism.
+Factual and Descriptive Inquiries
+Factual Inquiry or the descriptive inquiry help to provide the facts for understanding and finding solutions to the value based issues. The engineer has to conduct factual inquiries by using scientific techniques.
+This helps in providing the information regarding the business realities such as engineering practice, history of engineering profession, the effectiveness of professional societies, the procedures to be adopted when assessing risks and psychological profiles of engineers.
+Let us now go through the concept of Moral dilemma that a person faces when confronted with a situation.
+At times, the situations occur where one cannot make immediate decisions as the moral reasons come into conflict. The moral reasons can be rights, duties, goods or obligations, which make the decision making complex.
+
+Professions and Professionalism
+
+Profession
+Profession means a job or an occupation, that helps a person earn his living. The main criteria of a profession involve the following.
+
+Advanced expertise − The criteria of a profession is to have sound knowledge in both technical aspects and liberal arts as well. In general, continuing education and updating knowledge are also important.
+
+Self-regulation − An organization that provides a profession, plays a major role in setting standards for the admission to the profession, drafting codes of ethics, enforcing the standards of conduct and representing the profession before the public and the government.
+
+Public good − Any occupation serves some public good by maintaining high ethical standards throughout a profession. This is a part of professional ethics where each occupation is intended to serve for the welfare of the public, directly or indirectly to a certain extent.
+
+Professionals
+A person who is paid for getting onvolved in a particular profession in order to earn a living as well as to satisfy the laws of that profession can be understood as a Professional. The definition of a professional is given differently by different experts in the field. Let us see the following definitions −
+
+“Only consulting engineers who are basically independent and have freedom from coercion can be called as professionals.” − Robert L. Whitelaw
+
+“Professionals have to meet the expectations of clients and employers. Professional restrains are to be imposed by only laws and government regulations and not by personal conscience.” − Samuel Florman
+
+“Engineers are professionals when they attain standards of achievement in education, job performance or creativity in engineering and accept the most basic moral responsibilities to the public as well as employers, clients, colleagues and subordinates.” - Mike martin and Ronald Schinzinger
+
+Professionalism
+Professionalism covers comprehensively all areas of practice of a particular profession. It requires skills and responsibilities involved in engineering profession. Professionalism implies a certain set of attitudes.
+
+The art of Professionalism can be understood as the practice of doing the right thing, not because how one feels but regardless of how one feels. Professionals make a profession of the specific kind of activity and conduct to which they commit themselves and to which they can be expected to conform. Moral ideals specify virtue, i.e., desirable feature of character. Virtues are desirable ways of relating to other individuals, groups and organizations. Virtues involve motives, attitudes and emotions.
+
+According to Aristotle, virtues are the “acquired habits that enable us to engage effectively in rational activities that defines us as human beings.”
+
+Professional Ideals and Virtues
+The virtues represent excellence in core moral behavior. The essentials for any professional to excel in the profession are behavior, skills and knowledge. The behavior shows the moral ideology of the professional.
+
+The moral ideals specify the virtue, i.e., the desirable character traits that talk a lot about the motives, attitude and emotions of an individual.
+
+Public spirited virtues
+Proficiency virtues
+Team work virtues
+Self-governance virtues
+The virtues mentioned above show the professional responsibility of an individual. Hence, the professionalism that comes in with these virtues is called Responsible Professionalism. Let us now understand each virtue in detail.
+
+Public-spirited Virtues
+An engineer should focus on the good of the clients and the public at large, which means no harm should be done intentionally. The code of professional conduct in the field of engineering includes avoiding harm and protecting, as well promoting the public safety, health and welfare.
+
+Maintaining a sense of community with faith and hope within the society and being generous by extending time, talent and money to professional societies and communities, an engineer can maintain the public-spirited virtue. Finally, justice within corporations, government and economic practices becomes an essential virtue that an engineer should always possess.
+
+Proficiency Virtues
+These refer to the virtues followed in the profession according to the talent and intellect of an engineer. The moral values that include this virtue are competence and diligence. The competence is being successful in the job being done and the diligence is taking care and having alertness to dangers in the job. Creativity should also be present in accomplishing the assigned task.
+
+Teamwork Virtues
+These virtues represent the coordination among team members which means working successfully with other professionals. These include cooperative nature along with loyalty and respect towards their organization, which makes the engineers motivate the team professionals to work towards their valuable goals.
+
+Self-governance Virtues
+These virtues are concerned with moral responsibilities which represent integrity and self-respect of the person. The integrity actually means the moral integrity which refers to the actions, attitude and emotions of the person concerned during his professional period.
+
+The self-governance virtues center on commitment, courage, self-discipline, perseverance, self-respect and integrity. The truthfulness and trustworthiness which represent his honesty are the crucial moral values to be kept up by a professional.
+
+
